@@ -3,4 +3,4 @@ Hi I'm Russell.
 Currently working on https://deephire.com 
 
 
-[Metrics](https://metrics.lecoq.io/my-github-user)
+[Metrics](https://metrics.lecoq.io/russeii)
