@@ -1364,16 +1364,16 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            6
+                            7
                         </span>
-                        <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         11
                     </div>
                     <div class="entry">
                         <span class="value">
-                            6
+                            7
                         </span>
-                        <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         12
                     </div>
                     <div class="entry">
@@ -1498,9 +1498,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                4
+                                6
                             </span>
-                            <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -1521,16 +1521,16 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 49.696%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 47.896%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">
-                                62%
+                                60%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 19.439999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 19.208000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 24%
                             </span>
@@ -1539,9 +1539,9 @@
                             <span class="name">
                                 Python
                             </span>
-                            <div class="bar" style="width: 10.415999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 12.463999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                13%
+                                16%
                             </span>
                         </div>
                         <div class="entry">
@@ -1597,7 +1597,7 @@
                     These metrics include private contributions, timezone America/Chicago
                 </span>
                 <span>
-                    Last updated Fri, 09 Apr 2021 11:01:59 GMT with lowlighter/metrics@3.6.0
+                    Last updated Fri, 09 Apr 2021 12:02:17 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
