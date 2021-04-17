@@ -1549,27 +1549,27 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 47.248000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 47.808%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">
-                                59%
+                                60%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 Python
                             </span>
-                            <div class="bar" style="width: 17.368000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 17.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                22%
+                                21%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 15.104%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 14.768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                19%
+                                18%
                             </span>
                         </div>
                         <div class="entry">
@@ -1598,7 +1598,7 @@
                     These metrics include private contributions, timezone America/Chicago
                 </span>
                 <span>
-                    Last updated Sat, 17 Apr 2021 11:02:03 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sat, 17 Apr 2021 12:02:13 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
