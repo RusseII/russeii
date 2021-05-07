@@ -1414,8 +1414,8 @@
               22
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               23
             </div>
                 </div>
@@ -1435,8 +1435,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">4</span>
-                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">3</span>
+                <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1466,27 +1466,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 35.839999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">45%</span>
+                            <div class="bar" style="width: 37.312%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">47%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 30.792%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">38%</span>
+                            <div class="bar" style="width: 28.695999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">36%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 12.8%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">16%</span>
+                            <div class="bar" style="width: 13.4%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">17%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Less</span>
-                            <div class="bar" style="width: 0.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 0.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
@@ -1499,7 +1499,7 @@
             </div>
             <footer>
                 <span>These metrics include private contributions, timezone America/Chicago</span>
-                <span>Last updated Thu, 06 May 2021 23:05:08 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Fri, 07 May 2021 00:12:08 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
