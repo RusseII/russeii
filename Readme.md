@@ -1,3 +1,6 @@
+## Work 
+[Arbor Finance](https://arbor.garden), creating financial infrastructure to allow DAOs to raise money through debt.   
+
 ## Books that have shaped my thinking 
 
 * [80000 hours](https://80000hours.org/key-ideas/) - how I think about making a positive impact
