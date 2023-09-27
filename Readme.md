@@ -1,11 +1,11 @@
 ## Crypto Work 
 ### Current
 [dAppling](https://dappling.network) simple way for web3 developers to deploy decentralized frontends
-<img width="1341" alt="CleanShot 2023-09-27 at 10 56 36@2x" src="https://github.com/RusseII/russeii/assets/15036618/907e686d-e2ef-4dbe-a9ce-514cf9a5fdcd">
+<img width="1000" alt="CleanShot 2023-09-27 at 10 56 36@2x" src="https://github.com/RusseII/russeii/assets/15036618/907e686d-e2ef-4dbe-a9ce-514cf9a5fdcd">
 
 ### Past
 [Arbor Finance](https://arbor.finance) tool for DAOs to raise money through debt
-<img width="1202" alt="CleanShot 2023-09-27 at 10 57 35@2x" src="https://github.com/RusseII/russeii/assets/15036618/0d80a9ac-a6e2-439f-875a-eedf454a64fb">
+<img width="1000" alt="CleanShot 2023-09-27 at 10 57 35@2x" src="https://github.com/RusseII/russeii/assets/15036618/0d80a9ac-a6e2-439f-875a-eedf454a64fb">
 
 
 [GoGoPool Metrics](https://ggp.dappling.network) Dashboard for GoGoPool on Avalanch
@@ -20,7 +20,9 @@
 * [How To Fail at Almost Everything and Still Win Big](https://en.wikipedia.org/wiki/How_To_Fail_at_Almost_Everything_and_Still_Win_Big) - Goals vs Systems, The Selfishness Illusion
 
 ## What my friends say about me 
-![image](https://user-images.githubusercontent.com/15036618/148125131-56c8ff78-7913-40c5-bf84-929d86413c86.png)
+<img width="500" height="500" alt="Friends Say" src="https://user-images.githubusercontent.com/15036618/148125131-56c8ff78-7913-40c5-bf84-929d86413c86.png">
+
+
 
 ## Contact me 
-Happy to connect. Send me a dm on [twitter]([url](https://twitter.com/0xbookland)) or say hello at bookland@dappling.network
+Happy to connect. Send me a dm on [twitter](https://twitter.com/0xbookland) or say hello at bookland@dappling.network
