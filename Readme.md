@@ -1,7 +1,9 @@
 ## Crypto Work 
+### Current
 [dAppling](https://www.dappling.network) simple way for web3 developers to deploy decentralized frontends
 
-[Arbor Finance](https://arbor.garden) tool for DAOs to raise money through debt
+### Past
+[Arbor Finance](https://arbor.finance) tool for DAOs to raise money through debt
 
 [GoGoPool Metrics](https://ggp.dappling.network) Dashboard for GoGoPool on Avalanch
 
@@ -16,3 +18,6 @@
 
 ## What my friends say about me 
 ![image](https://user-images.githubusercontent.com/15036618/148125131-56c8ff78-7913-40c5-bf84-929d86413c86.png)
+
+## Contact me 
+Happy to connect. Send me a dm on [twitter]([url](https://twitter.com/0xbookland)) or say hello at bookland@dappling.network
