@@ -5,7 +5,8 @@
 
 ### Past
 [Arbor Finance](https://arbor.finance) tool for DAOs to raise money through debt
-<img width="1000" alt="CleanShot 2023-09-27 at 10 57 35@2x" src="https://github.com/RusseII/russeii/assets/15036618/0d80a9ac-a6e2-439f-875a-eedf454a64fb">
+
+<img width="500" alt="Arbor" src="https://github.com/RusseII/russeii/assets/15036618/6c222f95-2628-42bc-9bcc-86a87b18559d">
 
 
 [GoGoPool Metrics](https://ggp.dappling.network) Dashboard for GoGoPool on Avalanch
